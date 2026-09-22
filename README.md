@@ -39,15 +39,13 @@ The goal is simple: **build useful things, learn deeply, and share what I discov
 
 ## Projects
 
-Projects will gradually be added here as they become ready for public release.
+Public projects and case studies are currently being prepared.
 
-Some of the areas I'm currently working around include:
-
-- **JeradLink** — device connectivity and remote interaction
-- Developer productivity tools
+Coming soon:
 - Web applications
-- Self-hosted infrastructure
-- Automation and system tooling
+- Open-source tools
+- Self-hosted infrastructure projects
+- Automation and developer tooling
 
 ## Open Source
 
@@ -73,7 +71,8 @@ My interests include:
 
 ## Connect
 
-🌐 [jeradakcane.com](https://jeradakcane.com)
+🌐 Website — Coming soon
+
 
 📧 [contact@jeradakcane.com](mailto:contact@jeradakcane.com)
 
