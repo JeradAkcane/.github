@@ -1,7 +1,7 @@
 <!-- Brand Banner -->
 <p align="center">
   <img
-    src="YOUR-BANNER-URL-HERE"
+    src="brand-banner.png"
     alt="JeradAkcane Banner"
     width="100%"
   />
